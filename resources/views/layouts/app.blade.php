@@ -84,7 +84,8 @@
     </div>
 
  <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}"></script>
+
+ {{--Bootstrap Bundle  --}}
     <script src="{{ asset('frontend/js/bootstrap.bundle.min.js') }}"></script>
 </body>
 </html>
